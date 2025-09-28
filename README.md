@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **MERN stack projects**
-- 🌱 Learning **Next.js & Cloud technologies**
+- 🔭I’m an Information Technology Currently working on **MERN stack projects**
+- 🧑🏻 I’m currently working on improving my programming skills.
 - 👯 Open to collaborate on **open-source & web development projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, APIs**
 - 📫 Reach me at: **youremail@example.com**
