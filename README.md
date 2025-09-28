@@ -3,13 +3,13 @@
 
 ---
 
-### 🚀 About Me
-- 🔭I’m an Information Technology Currently working on **MERN stack projects**
-- 🧑🏻 I’m currently working on improving my programming skills.
-- 👯 Open to collaborate on **open-source & web development projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, APIs**
-- 📫 Reach me at: **youremail@example.com**
-- ⚡ Fun fact: *I turn ☕ coffee into clean code*
+###  About Me
+-👨‍💻 I’m Abdulmalek Hatem, a MERN Stack Developer.  
+-💡 Passionate about building dynamic web applications and innovative solutions.  
+-🌱 Always exploring new technologies like Next.js, Cloud services, and modern web frameworks.  
+-🧑🏻 Currently working on fullstack projects with React, Node.js, MongoDB, and Express.  
+-📍 Based in Sana'a, Yemen | Open to collaboration and learning opportunities.
+
 
 ---
 
