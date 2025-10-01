@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Abdulmalek Hatem</h1>
+<h1 align="center">👋 Hi, I'm Abdulmalek Hatem</h1>
 <h3 align="center">💻 MERN Stack Developer | 🚀 Passionate Learner | 🌍 Open Source Contributor</h3>
 
 ---
